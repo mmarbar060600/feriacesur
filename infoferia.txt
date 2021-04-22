@@ -1,0 +1,47 @@
+* commit 01f5e5b2cb79f2f2a695d0388f2831caadbc7319 (HEAD -> master, origin/master)
+| Author: CESUR <antonio@cesur.com>
+| Date:   Thu Apr 22 08:53:44 2021 +0200
+| 
+|     segunda edicion de comida
+| 
+* commit 69c64af206e1f0674b9335ae4cb8c15240be4622
+| Author: CESUR <antonio@cesur.com>
+| Date:   Thu Apr 22 08:52:54 2021 +0200
+| 
+|     otra edicion mas de listasocios
+| 
+* commit 4209a769918647cfa9dd8b86101a073d5efc88b6 (cocina_caseta)
+| Author: CESUR <antonio@cesur.com>
+| Date:   Thu Apr 22 08:39:00 2021 +0200
+| 
+|     segunda edicion del fichero comida
+| 
+* commit 3c6947571548a53c42d3b61320318da50c9248fd
+| Author: CESUR <antonio@cesur.com>
+| Date:   Thu Apr 22 08:37:36 2021 +0200
+| 
+|     edicion del archivo comida en rama cocina
+| 
+* commit 97bc91e34b56c1186b14e0f8513eebe3596b023c
+| Author: CESUR <antonio@cesur.com>
+| Date:   Thu Apr 22 08:31:22 2021 +0200
+| 
+|     primer cambio precios.txt
+| 
+* commit 5d14466a4a0215909a0f8730695446204e6dd9e6
+  Author: CESUR <antonio@cesur.com>
+  Date:   Thu Apr 22 08:30:25 2021 +0200
+  
+      primer cambio socios
+01f5e5b HEAD@{0}: commit: segunda edicion de comida
+69c64af HEAD@{1}: commit: otra edicion mas de listasocios
+4209a76 HEAD@{2}: Branch: renamed refs/heads/master to refs/heads/master
+4209a76 HEAD@{4}: merge cocina_caseta: Fast-forward
+97bc91e HEAD@{5}: checkout: moving from cocina_caseta to master
+4209a76 HEAD@{6}: checkout: moving from master to cocina_caseta
+97bc91e HEAD@{7}: checkout: moving from cocina_caseta to master
+4209a76 HEAD@{8}: commit: segunda edicion del fichero comida
+3c69475 HEAD@{9}: commit: edicion del archivo comida en rama cocina
+97bc91e HEAD@{10}: checkout: moving from master to cocina_caseta
+97bc91e HEAD@{11}: commit: primer cambio precios.txt
+5d14466 HEAD@{12}: commit (initial): primer cambio socios
